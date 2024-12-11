@@ -1,0 +1,18 @@
+h1 {
+  text-align: left;
+  margin: 0 73vw 0 5vw;
+}
+
+#Navigation {
+  display: inline-flex;
+  margin-left: 50px;
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+
+header {
+  display: inline-flex;
+  align-items: center;
+  padding: 2vw 20px 0 0;
+}
