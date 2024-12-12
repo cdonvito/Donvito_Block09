@@ -1,18 +1,59 @@
+body {
+  background-color: grey;
+  margin: auto;
+}
+
 h1 {
   text-align: left;
-  margin: 0 73vw 0 5vw;
+  padding: 0 78vw 0 3vw;
+  display: inline-block;
 }
 
 #Navigation {
-  display: inline-flex;
-  margin-left: 50px;
+  display: inline-block;
   text-decoration: none;
   color: black;
   font-size: 25px;
+  color: white;
 }
 
 header {
   display: inline-flex;
-  align-items: center;
+  align-items: flex-start;
+  padding: 2vw 20px 0 0;
+  background-color: aqua;
+  color: white;
+}
+
+#Craig_Pic {
+  display: inline-block;
+  align-self: auto;
+  width: 20vw;
+  height: auto;
+  border-radius: 20px;
+}
+
+#Bio {
+  display: inline-block;
+  font-size: 20px;
+  vertical-align: text-top;
+}
+
+#Quote {
+  display: inline-block;
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px;
+}
+
+#Home_Body {
+  background-color: blue;
+  color: white;
+  margin: 0 15vw;
+  padding: 2vw;
+}
+
+footer {
+  background-color: aqua;
   padding: 2vw 20px 0 0;
 }
