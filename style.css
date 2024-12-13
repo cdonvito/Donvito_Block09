@@ -64,6 +64,13 @@ header {
   padding: 1vw;
 }
 
+#About_Body {
+  background-color: rgb(20, 101, 144);
+  color: rgb(28, 206, 241);
+  margin: 0 15vw;
+  padding: 1vw;
+}
+
 footer {
   background-color: rgb(11, 140, 125);
   padding-left: 38vw;
@@ -74,4 +81,16 @@ footer {
   height: auto;
   display: inline-block;
   padding: 1vw;
+}
+
+#First_Hobby {
+  padding: 2vw;
+}
+
+#Second_Hobby {
+  padding: 2vw
+}
+
+#Third_Hobby {
+  padding: 2vw;
 }
