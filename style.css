@@ -94,3 +94,32 @@ footer {
 #Third_Hobby {
   padding: 2vw;
 }
+
+#Portfolio_Body {
+  background-color: rgb(20, 101, 144);
+  color: rgb(28, 206, 241);
+  margin: 0 15vw;
+  padding: 1vw;
+}
+
+#First_Project {
+ font-size: 25px;
+}
+
+#Second_Project {
+  font-size: 25px;
+}
+
+#Third_Project {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 50px;
+  
+}
+
+h3 {
+  font-size: 40px;
+  text-decoration: underline;
+}
